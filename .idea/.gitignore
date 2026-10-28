@@ -1,3 +1,12 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+# IntelliJ IDEA
+.idea/
+
+# Arquivos compilados
+target/
+*.class
+
+# Configurações locais
+*.iml
